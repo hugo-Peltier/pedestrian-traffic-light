@@ -50,11 +50,11 @@ Once the program is running, the screen alternates between:
 
 ### Hardware setup
 
-![Hardware setup](images/setup.jpg)
+<img src="mo.jpeg" width="400"/>
 
 ### OLED display output
 
-![OLED display](images/display.jpg)
+<img src="led.jpeg" width="400"/>
 
 ## Notes
 
